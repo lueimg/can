@@ -574,7 +574,7 @@ color: #00cef3;
 }
 
 
-.page-header {
+.not-front .page-header {
     border-bottom: 1px solid #eeeeee;
     margin: 40px 0 20px !important;
     padding-bottom: 9px;
@@ -582,12 +582,12 @@ color: #00cef3;
     text-transform: uppercase;
 }
 
-.region-content {
+.not-front .region-content {
     padding-bottom: 100px;
 }
 
 
-.form-item .form-control{
+.webform-client-form-21 .form-item .form-control{
     box-shadow: none;
     border-radius: 0;
     width: 60%;
@@ -598,15 +598,15 @@ color: #00cef3;
 }
 
 
-.form-item .form-control:focus {
+.webform-client-form-21 .form-item .form-control:focus {
     background: #fff;
 }
 
-.form-item .form-textarea {
+.webform-client-form-21 .form-item .form-textarea {
     width: 100%;
 }
 
-.form-item  label {
+.webform-client-form-21 .form-item  label {
     color: #d60483;
     display: inline-block;
     width: 30%;
