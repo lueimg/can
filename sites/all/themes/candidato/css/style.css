@@ -740,7 +740,13 @@ color: #00cef3;
     border: 1px solid #ccc;
 }
 
-
+.node-video .field-name-field-video ,
+.node-video .field-name-field-fecha-de-publicacion
+{
+   text-align: center;
+    font-size: 1.5em;
+    padding-bottom: 20px;
+}
 
 
 
