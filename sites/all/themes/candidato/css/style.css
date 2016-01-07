@@ -586,16 +586,19 @@ color: #00cef3;
     padding-bottom: 100px;
 }
 
-
-.webform-client-form-21 .form-item .form-control{
-    box-shadow: none;
-    border-radius: 0;
-    width: 60%;
-    display: inline-block;
-    border: none;
-    border-bottom: 1px solid #ccc;
-    background: none;
+.webform-client-form-21 {
+    margin-top: 50px;
 }
+
+/*.webform-client-form-21 .form-item .form-control{*/
+    /*box-shadow: none;*/
+    /*border-radius: 0;*/
+    /*width: 60%;*/
+    /*display: inline-block;*/
+    /*border: none;*/
+    /*border-bottom: 1px solid #ccc;*/
+    /*background: none;*/
+/*}*/
 
 
 .webform-client-form-21 .form-item .form-control:focus {
@@ -611,6 +614,127 @@ color: #00cef3;
     display: inline-block;
     width: 30%;
 }
+
+.webform-client-form-21
+.panel-title.fieldset-legend {
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.webform-client-form-21
+.form-actions {
+    text-align: center;
+}
+
+.webform-client-form-23
+.webform-next,
+.webform-client-form-21
+.webform-submit {
+    border-radius: 8px;
+    box-sizing: content-box;
+    font-size: 2em;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+/*.webform-client-form-21*/
+/*.form-control {*/
+    /*border-radius: 0;*/
+    /*border: none;*/
+    /*box-shadow: 1px 0 15px rgba(0, 0, 0, 0.075) inset;*/
+/*}*/
+
+.webform-client-form-21
+.panel-default > .panel-heading {
+    background-color: #fff;
+}
+
+.webform-client-form-23
+.messages.warning,
+.webform-client-form-23
+.webform-progressbar {
+    display: none;
+}
+
+
+.tt-menu {
+    width: 422px;
+    margin: 12px 0;
+    padding: 8px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.tt-suggestion {
+    padding: 3px 20px;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.tt-suggestion:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color: #0097cf;
+}
+
+.tt-suggestion.tt-cursor {
+    color: #fff;
+    background-color: #0097cf;
+
+}
+
+.tt-suggestion p {
+    margin: 0;
+}
+
+
+.view-videos,
+.view-prensa {
+    text-align: center;
+}
+.view-videos .views-row,
+.view-prensa
+.views-row {
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 100px;
+    padding-top: 20px;
+}
+
+.view-videos .views-field-title,
+.view-prensa
+.views-field-title {
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+.view-videos .views-field,
+.view-prensa
+.views-field {
+    margin-bottom: 20px;
+}
+
+.view-videos .views-field-body,
+.view-prensa
+.views-field-body {
+    font-size: 1.5em;
+}
+
+
+
+
+
+
+
+
+
 
 
 
