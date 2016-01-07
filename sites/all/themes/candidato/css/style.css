@@ -728,11 +728,17 @@ color: #00cef3;
 }
 
 
+.node-galeria .field-name-field-imagenes .field-item {
+    width: 25%;
+    display: inline-block;
+    padding: 10px;
+}
 
 
-
-
-
+.node-galeria .field-name-field-imagenes .field-item img{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
 
 
 
