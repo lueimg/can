@@ -143,6 +143,17 @@ html, body {
     text-align: center;
 }
 
+.section-galeria .views-field-view-node{
+    clear: both;
+    font-size: 1.5em;
+    padding: 15px;
+}
+.section-galeria .views-field-view-node a{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+}
+
 
 
 .options_{
