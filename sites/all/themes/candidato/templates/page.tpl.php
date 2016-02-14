@@ -76,6 +76,14 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+<div class="top-social">
+    <div class="container">
+        <div class="social_2">
+            <a href="#" target="_blank" class="fa fa-twitter" style="color: #3BA6B9;"></a>
+            <a href="https://www.facebook.com/freddyangello.sifuentesocana?fref=ts" target="_blank" class="fa fa-facebook"></a>
+        </div>
+    </div>
+</div>
 <header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
     <div class="container test">
         <div class="navbar-header">

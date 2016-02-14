@@ -79,8 +79,8 @@
 <div class="top-social">
     <div class="container">
         <div class="social_2">
-            <a href="https://www.facebook.com/freddyangello.sifuentesocana?fref=ts"  target="_blank" class="fa fa-twitter"></a>
-            <a href="#" class="fa fa-facebook"></a>
+            <a href="#" target="_blank" class="fa fa-twitter" style="color: #3BA6B9;"></a>
+            <a href="https://www.facebook.com/freddyangello.sifuentesocana?fref=ts" target="_blank" class="fa fa-facebook"></a>
         </div>
     </div>
 </div>

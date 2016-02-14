@@ -749,5 +749,10 @@ color: #00cef3;
 }
 
 
+.top-social {
+    text-align: right;
+    font-size: 2em;
+    text-decoration: none !important;
+}
 
 
