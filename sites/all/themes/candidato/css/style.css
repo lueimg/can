@@ -149,9 +149,14 @@ html, body {
     padding: 15px;
 }
 .section-galeria .views-field-view-node a{
-    border: 1px solid #ccc;
+    border: 1px solid #337ab7;
     border-radius: 5px;
     padding: 5px;
+}
+
+.section-galeria .views-field-view-node a:hover{
+    border: 1px solid #fff;
+    color: #337ab7;
 }
 
 
