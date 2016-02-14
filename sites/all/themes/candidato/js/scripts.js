@@ -92,7 +92,7 @@ jQuery().ready(function(){
       source: substringMatcher(regiones)
     });
 
-
+  jQuery('.logo.navbar-btn.pull-left').attr('href','/conoce-ppk');
 });
 
 
