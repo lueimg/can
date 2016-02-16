@@ -781,6 +781,6 @@ color: #00cef3;
     background: none;
     font-size: 2em;
 }
-#block-nice-menus-1 ul.nice-menu li::before {
-    content: '&Gt; ';
+#block-nice-menus-1 ul.nice-menu li a::before {
+    content: '&raquo; ';
 }
