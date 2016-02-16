@@ -79,6 +79,7 @@
 <div class="top-social">
     <div class="container">
         <div class="social_2">
+            <a href="/kits-ppkausa" target="_blank" class="" style="color: #df0283;">kits PPKausa</a>
             <a href="#" target="_blank" class="fa fa-twitter" style="color: #3BA6B9;"></a>
             <a href="https://www.facebook.com/PPK-Freddy-Sifuentes-Congresista-1721224971424083/?fref=ts" target="_blank" class="fa fa-facebook"></a>
         </div>
