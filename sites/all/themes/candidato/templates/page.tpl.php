@@ -80,7 +80,7 @@
     <div class="container">
         <div class="social_2">
             <a href="#" target="_blank" class="fa fa-twitter" style="color: #3BA6B9;"></a>
-            <a href="https://www.facebook.com/freddyangello.sifuentesocana?fref=ts" target="_blank" class="fa fa-facebook"></a>
+            <a href="https://www.facebook.com/PPK-Freddy-Sifuentes-Congresista-1721224971424083/?fref=ts" target="_blank" class="fa fa-facebook"></a>
         </div>
     </div>
 </div>
