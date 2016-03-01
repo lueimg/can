@@ -111,7 +111,9 @@ jQuery().ready(function(){
 
 
   jQuery('.logo.navbar-btn.pull-left').attr('href','/conoce-ppk');
-  jQuery(".front .view-galerias .options_").append('<li><a href="/galerias" style="color:#df0283"> &raquo; Ver todas las galerias</a></li>')
+ jQuery().ready(function () {
+   jQuery(".front .view-galerias .options_").append('<li><a href="/galerias" style="color:#df0283"> &raquo; Ver todas las galerias</a></li>')
+ });
 
 
 
